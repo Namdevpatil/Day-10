@@ -1,0 +1,30 @@
+1. MultiThreading:
+   ==============
+   
+   OS(Operating System):
+   
+   Task: running one application
+   Multitasking: running multiple applications
+   
+   1. Process
+   
+   multiprocessing
+   
+   2. Thread 
+   
+   mutlithreading  
+   
+   
+   => How many ways we can create Thread Objects in Java.
+   
+   1. By extending Thread class from java.lang package.
+   
+   2. By implementing Runnable interface from java.lang package.
+   
+   Life Cycle of Thread
+   
+   Phases: new, runnable, waiting and dead
+   
+
+2. Java Collections API:
+   ====================
